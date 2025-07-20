@@ -1,2 +1,1 @@
-# Online-Store
-1 page template for online store
+# Shop-Project
